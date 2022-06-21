@@ -1,0 +1,50 @@
+STRIP
+la función Strip quita los espacios que hay en un texto, al inicio y final de la oración
+esta función cuenta con dos funciones anidadas, lstrip y rstrip, para eliminar los espacios que hay 
+a los lados segun la funcion usada, l izquierda, r derecha.
+
+LEN
+La funcion Len permite identificar la cantidad de caracteres que tiene un texto.
+NOTA, para concatenar strings, se pueden realiar con +, sin embargo si llega a ver números, se debe 
+concatenar con comas ",".
+
+LOWER
+La funcion lower permite convertir una cadena de texto en minusculas.
+
+UPPER
+La funcion UPPER permite convertir una cadena de texto en mayusculas.
+
+SPLIT
+Crea un array apartir de un string, teniendo en cuenta el separador que se le asigne dentro de la función.
+
+COUNT
+Cuenta la cantidad de elementos que se le pasen como argumentos en una cadena de texto.
+
+ENDSWITH
+Encuentra si una cadena finaliza con una subcadena o no (devuelve true o false).
+
+CAPITALIZE 
+Asigana mayusculas a la primera letra de la primera palabra dentro de un texto. 
+
+CENTER
+Centra un texto y lo rodea de los caracteres que les pasa como argumentos dentro de la funcion
+
+FIND
+Encuentra la posición de una subcadena de texto dentro de una cadena de texto, si no encuentra, muestra -1
+
+INDEX
+Encuentra la posicion de una subcadena de texto dentro de una cadena de texto, sin no lo encuentra, muestra una excepción.
+
+ISALNUM
+Esta función permite identificar si la cadena de texto es alfa numérico, es decir si solamente hay letras o numeros,
+por ejemplo los espacios no es un caracter alfanumérico y por tal motivo sería falso.
+
+ISALPHA
+Esta función permite identificar si todos los elementos de una cadena de texto son de tipo alfabético.
+
+ISDIGIT
+Esta función permite identificar si todos los elementos de una cadena de texto son de tipo numérico.
+
+REPLACE
+Esta función permite reemplazar una subcadena de texto por otra dentro de una cadena de texto.
+

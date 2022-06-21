@@ -1,0 +1,10 @@
+
+la función open, requiere dos parámetros,
+
+open (parametro1, parametro2)
+parametro 1: es la ruta en la cual se encuentra o se va a crear el archivo
+parametro 2: se debe escribir la accion que se desee realizar, 'w' para escribir, 'r' para leer.
+
+la función write, permite escribir dentro de un archivo.
+se debe siempre cerrar el archivo cuando se acabe la ejecución con el fin de que se guarden los cambios,
+la función readlines permite leer de manera interna un archivo, y guardarlo en una lista
